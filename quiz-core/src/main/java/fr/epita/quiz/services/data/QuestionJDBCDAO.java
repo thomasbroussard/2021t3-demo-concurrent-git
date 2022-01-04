@@ -6,4 +6,9 @@ package fr.epita.quiz.services.data;
 public class QuestionJDBCDAO {
 
 
+
+    public void create(Object obj){
+
+
+    }
 }
